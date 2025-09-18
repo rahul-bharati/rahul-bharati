@@ -1,5 +1,42 @@
-# 💫 About Me:
-👋 Hi there!<br>I'm Rahul Bharati, a Senior Software Engineer passionate about building innovative solutions and sharing knowledge. With over 6 years of experience, I specialize in full-stack web development using JavaScript, TypeScript, React, Node.js, and now exploring GoLang and Rust.<br><br>🚀 I’m currently on a journey to become a 100x developer through my project series, "My Adventure Through Code", where I build unique micro-SaaS apps and document my progress.<br><br>🎮 In addition to web development, I'm diving into game development with Unity, blending my passion for tech and gaming.<br><br>💡 Let’s collaborate, learn, and create something amazing together. Feel free to explore my repositories and connect!
+# 🚀 Rahul Bharati — Senior Software Engineer | Systems Builder
+
+I don’t just write code — I build systems.  
+With **7+ years** of experience across startups and enterprise, I’ve worn many hats -  
+from founding my own company to running a 15+ member restaurant team, and working in domains like **edtech, fintech, gaming, insurance, and legaltech**.  
+
+Today, I’m a **Senior Software Engineer at EPAM Systems**, focusing on scalable systems and cross-team collaboration.  
+I’m an advocate of **strong fundamentals, clear communication, and building systems that last**.  
+
+<h3>🎯 Current Focus</h3>
+<ul>
+  <li>⚡ Shipping <a href="https://www.creavio.app"><b>Creavio</b></a> — a privacy-first community platform (chat, voice, video, streaming) built with <b>GoLang microservices, Kubernetes, and Next.js</b>.</li>
+  <li>📈 Documenting decisions with ADRs & RFCs, treating my portfolio like a real <b>staff+ engineering project</b>.</li>
+</ul>
+
+<h3>🔮 Next Horizon</h3>
+<ul>
+  <li>🤖 <b>AI Systems Engineering & MLOps</b> — mastering model deployment, observability, and scaling.</li>
+  <li>🧑‍💻 <b>Quantum Computing</b> — exploring practical use cases to stay ahead of the curve.</li>
+</ul>
+
+<h3>💡 What Defines Me</h3>
+<ul>
+  <li>Deep expertise in the <b>JavaScript ecosystem</b> (React, Node.js, MERN) — now expanding into Go & Rust.</li>
+  <li>Hands-on with <b>system design, scaling strategies, and DevOps tooling</b> — not just in theory, but in practice.</li>
+  <li>A builder’s mindset: I learn by <b>shipping real systems</b>, even if it means failing fast and iterating harder.</li>
+</ul>
+
+### 📌 My Goal
+- Ship **Creavio** as proof of engineering depth.  
+- Master **AI + MLOps** to stay future-ready.  
+- Grow into a **world-class systems engineer** — ready for any role, from Staff Engineer to CTO.  
+
+⚡ I’ve abandoned more projects than I can count — chasing too many paths at once.
+
+
+**This time is different - I’m taking control back, showing up every day, improving 1% at a time, and building Creavio 1% at a time until it ships.**
+
+
 
 
 ## 🌐 Socials:
