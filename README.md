@@ -1,68 +1,38 @@
-# 🚀 Rahul Bharati — Senior Software Engineer | Systems Builder
+### Rahul Bharati
 
-I don’t just write code — I build systems.  
-With **7+ years** of experience across startups and enterprise, I’ve worn many hats -  
-from founding my own company to running a 15+ member restaurant team, and working in domains like **edtech, fintech, gaming, insurance, and legaltech**.  
+Senior Software Engineer focused on **AI security and engineering for working developers**.
 
-Today, I’m a **Senior Software Engineer at EPAM Systems**, focusing on scalable systems and cross-team collaboration.  
-I’m an advocate of **strong fundamentals, clear communication, and building systems that last**.  
-
-<h3>🎯 Current Focus</h3>
-<ul>
-  <li>⚡ Shipping <a href="https://www.creavio.app"><b>Creavio</b></a> — a privacy-first community platform (chat, voice, video, streaming) built with <b>GoLang microservices, Kubernetes, and Next.js</b>.</li>
-  <li>📈 Documenting decisions with ADRs & RFCs, treating my portfolio like a real <b>staff+ engineering project</b>.</li>
-</ul>
-
-<h3>🔮 Next Horizon</h3>
-<ul>
-  <li>🤖 <b>AI Systems Engineering & MLOps</b> — mastering model deployment, observability, and scaling.</li>
-  <li>🧑‍💻 <b>Quantum Computing</b> — exploring practical use cases to stay ahead of the curve.</li>
-</ul>
-
-<h3>💡 What Defines Me</h3>
-<ul>
-  <li>Deep expertise in the <b>JavaScript ecosystem</b> (React, Node.js, MERN) — now expanding into Go & Rust.</li>
-  <li>Hands-on with <b>system design, scaling strategies, and DevOps tooling</b> — not just in theory, but in practice.</li>
-  <li>A builder’s mindset: I learn by <b>shipping real systems</b>, even if it means failing fast and iterating harder.</li>
-</ul>
-
-### 📌 My Goal
-- Ship **Creavio** as proof of engineering depth.  
-- Master **AI + MLOps** to stay future-ready.  
-- Grow into a **world-class systems engineer** — ready for any role, from Staff Engineer to CTO.  
-
-⚡ I’ve abandoned more projects than I can count — chasing too many paths at once.
-
-
-**This time is different - I’m taking control back, showing up every day, improving 1% at a time, and building Creavio 1% at a time until it ships.**
-
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-bharati) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rahulrbharati) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10093706) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BharatiRahul) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rahul-bharati)
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rahul-bharati&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rahul-bharati&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-bharati&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rahul-bharati&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rahul-bharati&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I've spent 7+ years building production systems across startups and enterprise — currently at **EPAM Systems**. Strong foundation in JavaScript and TypeScript, now deepening expertise in AI engineering and the safety patterns most teams skip.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rahul-bharati&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rahulbharati) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rahulbharati) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rahulbharati)
+#### Featured Work
 
+**[zero-trust-ai-masterclass](https://github.com/rahul-bharati/zero-trust-ai-masterclass)** — Reference implementation of a Zero-Trust architecture for LLM-powered database agents. Bidirectional input/output guards, policy-as-code via versioned Markdown, OWASP LLM Top 10 alignment, fail-closed defaults. Presented at upGrad masterclass on engineering trustworthy AI agents, May 2026.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+#### Currently
+
+- Reading *AI Engineering* by Chip Huyen
+- Pursuing an Executive MBA alongside full-time engineering work
+- Publishing AI security content at [rahulbharati.dev](https://rahulbharati.dev) and [@rahul_bharati](https://youtube.com/@rahul_bharati) on YouTube
+- Open to conversations about AI engineering and AI security roles, particularly in fintech
+
+---
+
+#### Background
+
+- Senior Software Engineer @ EPAM Systems (Jul 2023 – present)
+- Earlier: Consulting on financial services systems (HDFC Life), data infrastructure work, full-stack engineering across edtech, fintech, gaming, and legaltech
+- Core stack: TypeScript, Node.js, React, Python (for AI work)
+
+---
+
+#### Elsewhere
+
+- Blog: [rahulbharati.dev](https://rahulbharati.dev)
+- LinkedIn: [rahul-bharati](https://linkedin.com/in/rahul-bharati)
+- Writing: [@rahulrbharati on Medium](https://medium.com/@rahulrbharati)
+- Twitter/X: [@BharatiRahul](https://x.com/BharatiRahul)
+- Talk: *Beyond the Happy Path: Engineering Zero-Trust AI Agents* (upGrad, May 2026)
