@@ -24,7 +24,7 @@ I've spent 7+ years building production systems across startups and enterprise â
 #### Background
 
 - Senior Software Engineer @ EPAM Systems (Jul 2023 â€“ present)
-- Earlier: Consulting on financial services systems (HDFC Life), data infrastructure work, full-stack engineering across edtech, fintech, gaming, and legaltech
+- Earlier: Consulting on insaurance services systems (HDFC Life), data infrastructure work, full-stack engineering across edtech, fintech, gaming, and legaltech
 - Core stack: TypeScript, Node.js, React, Python (for AI work)
 
 ---
