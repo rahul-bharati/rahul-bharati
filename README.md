@@ -12,8 +12,19 @@ I've spent 7+ years building production systems across startups and enterprise �
 
 ---
 
+#### Products
+
+<img src="assets/fayebot.svg" width="20" alt="FayeBot" /> &nbsp;**[FayeBot](https://www.fayebot.com)** — AI-native lead capture for founders. One line of code embeds Faye, a conversational agent that talks to visitors, captures leads, and escalates to a human when it matters.
+
+<br />
+
+<img src="assets/haru.svg" width="20" alt="Haru" /> &nbsp;**[Haru](https://www.haru.co.in)** — AI executive communication coach. Turns raw professional writing and speech into polished, executive-grade language in real time, with tone scoring and spaced-repetition practice.
+
+---
+
 #### Currently
 
+- Launching **[FayeBot](https://www.fayebot.com)** and **[Haru](https://www.haru.co.in)** — two AI products now live (see Products above)
 - Reading *AI Engineering* by Chip Huyen
 - Pursuing an Executive MBA alongside full-time engineering work
 - Publishing AI security content at [rahulbharati.dev](https://rahulbharati.dev) and [@rahul_bharati](https://youtube.com/@rahul_bharati) on YouTube
